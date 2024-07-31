@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="MasterPageDemo.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <style>
+        .container{
+            height: 536px;
+        }
+        .header,.footer{
+            background-color:blueviolet;
+            color:white;
+            padding:20px;
+            margin: 0px;
+            text-align:center;
+        }
+        .content{
+            display:flex;
+        }
+        .asides {
+            background-color: lightsteelblue;
+            padding: 20px;
+        }
+        .main {
+            background-color: antiquewhite;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            flex-grow: 1; 
+        }
+        #ContentPlaceHolder1{
+            text-align:center;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="height: 316px">
+    <form id="form1" runat="server">
+        <div class="container">
+
+            <div class="header">
+                
+                <asp:Label ID="Label1" runat="server" Text="This is header."></asp:Label>
+                
+            </div>
+
+            <div class="content">
+
+                <div class="asides">
+                    <asp:CheckBoxList ID="CheckBoxList1" runat="server" AutoPostBack="true" OnSelectedIndexChanged="CheckBoxList1_SelectedIndexChanged">
+                        <asp:ListItem Value="IT">IT</asp:ListItem>
+                        <asp:ListItem Value="CE">CE</asp:ListItem>
+                        <asp:ListItem Value="EC">EC</asp:ListItem>
+                    </asp:CheckBoxList>
+                </div>
+
+                <div class="main">
+                          <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                </asp:ContentPlaceHolder>
+                </div>
+            </div>  
+            
+            <div class="footer">
+
+                <asp:Label ID="Label2" runat="server" Text="@copyrights reserved by RIYA."></asp:Label>
+
+            </div>
+        </div>
+    </form>
+</body>
+</html>

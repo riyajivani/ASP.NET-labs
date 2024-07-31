@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sem 7\\WT\\lab\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57130A6B-68AC-4BB6-9508-1F5C8C5DD5A1}|Calculator\\Calculator.csproj|d:\\sem 7\\wt\\lab\\calculator\\calculator\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{57130A6B-68AC-4BB6-9508-1F5C8C5DD5A1}|Calculator\\Calculator.csproj|solutionrelative:calculator\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 20,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\sem 7\\WT\\lab\\Calculator\\Calculator\\Web.config",
+              "RelativeDocumentMoniker": "Calculator\\Web.config",
+              "ToolTip": "D:\\sem 7\\WT\\lab\\Calculator\\Calculator\\Web.config",
+              "RelativeToolTip": "Calculator\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-24T17:02:53.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+ <Advertisements>
+	<Ad>
+		<ImageUrl>~/images/fruit1.jpg</ImageUrl>
+		<NavigateUrl>http://www.google.com</NavigateUrl>
+		<AlternateText>Fruit1</AlternateText>
+		<Height>200</Height>
+		<Width>200</Width>
+		<Keyword>Fruit</Keyword>
+		<Impressions>2</Impressions>
+	</Ad>
+
+	 <Ad>
+		 <ImageUrl>~/images/lake1.jpg</ImageUrl>
+		 <NavigateUrl>http://www.google.com</NavigateUrl>
+		 <AlternateText>Lake1</AlternateText>
+		 <Height>200</Height>
+		 <Width>200</Width>
+		 <Keyword>Lake</Keyword>
+		 <Impressions>5</Impressions>
+	 </Ad>
+
+	 <Ad>
+		 <ImageUrl>~/images/Lake3.jpg</ImageUrl>
+		 <NavigateUrl>http://www.google.com</NavigateUrl>
+		 <AlternateText>Lake3</AlternateText>
+		 <Height>200</Height>
+		 <Width>200</Width>
+		 <Keyword>Lake</Keyword>
+		 <Impressions>3</Impressions>
+	 </Ad>
+
+	 <Ad>
+		 <ImageUrl>~/images/Lake2.jpg</ImageUrl>
+		 <NavigateUrl>http://www.google.com</NavigateUrl>
+		 <AlternateText>Lake2</AlternateText>
+		 <Height>200</Height>
+		 <Width>200</Width>
+		 <Keyword>Lake</Keyword>
+		 <Impressions>1</Impressions>
+	 </Ad>
+
+	 <Ad>
+		 <ImageUrl>~/images/fruit2.jpg</ImageUrl>
+		 <NavigateUrl>http://www.google.com</NavigateUrl>
+		 <AlternateText>Fruit2</AlternateText>
+		 <Height>200</Height>
+		 <Width>200</Width>
+		 <Keyword>Fruit</Keyword>
+		 <Impressions>4</Impressions>
+	 </Ad>
+</Advertisements>
