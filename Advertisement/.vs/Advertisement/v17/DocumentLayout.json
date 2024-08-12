@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\sem 7\\WT\\lab\\Advertisement\\",
+  "WorkspaceRootPath": "D:\\sem7\\WT\\lab\\Advertisement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|d:\\sem 7\\wt\\lab\\advertisement\\images\\lake1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
-      "RelativeMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|solutionrelative:images\\lake1.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+      "AbsoluteMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|d:\\sem7\\wt\\lab\\advertisement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 20,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "lake1.jpg -  [English (United States)] - Bitmap [183x275, 24 bit, JPG]",
-              "DocumentMoniker": "D:\\sem 7\\WT\\lab\\Advertisement\\images\\lake1.jpg",
-              "RelativeDocumentMoniker": "images\\lake1.jpg",
-              "ToolTip": "D:\\sem 7\\WT\\lab\\Advertisement\\images\\lake1.jpg -  [English (United States)] - Bitmap [183x275, 24 bit, JPG]",
-              "RelativeToolTip": "images\\lake1.jpg -  [English (United States)] - Bitmap [183x275, 24 bit, JPG]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-07-16T11:42:00.432Z",
-              "EditorCaption": " -  [English (United States)] - Bitmap [183x275, 24 bit, JPG]"
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\Advertisement\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "WebForm1.aspx",
+              "ToolTip": "D:\\sem7\\WT\\lab\\Advertisement\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-31T03:14:14.101Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -39,6 +39,15 @@ namespace Calculator
                     Response.Write(a / b);
                     break;
             }
+
+            if (e.CommandName.ToString() == "clear")
+            {
+                if (e.CommandArgument.ToString() == "clear")
+                {
+                    TextBox1.Text = "";
+                    TextBox2.Text = "";
+                }
+            }
         }
         protected void TextBox2_TextChanged(object sender, EventArgs e)
         {

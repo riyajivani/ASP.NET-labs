@@ -1,6 +1,9 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="DetailsForm.WebForm1" %>
 
 <!DOCTYPE html>
+<script runat="server">
+</script>
+
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
@@ -75,7 +78,7 @@
 
             <div class="group">
                 <asp:Label ID="Label7" runat="server" Text="Certificates: " CssClass="horizontalCheckBoxList"></asp:Label>
-                <asp:CheckBoxList ID="CheckBoxList1" runat="server" >
+                <asp:CheckBoxList ID="CheckBoxList1" runat="server" OnSelectedIndexChanged="CheckBoxList1_SelectedIndexChanged" >
                     <asp:ListItem>IELTS</asp:ListItem>
                     <asp:ListItem>GRE</asp:ListItem>
                     <asp:ListItem>NCAT</asp:ListItem>

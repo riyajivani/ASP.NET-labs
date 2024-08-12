@@ -7,7 +7,7 @@
     <title></title>
     <style>
         body, html {
-            height: 100%;
+            height: 482px;
         }
 
         .container{
@@ -24,10 +24,10 @@
     <form id="form1" runat="server">
         <div class="container">
             <asp:Label ID="Label1" runat="server" Text="Number1"></asp:Label>
-            <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
+            <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
 
             <asp:Label ID="Label2" runat="server" Text="Number2"></asp:Label> 
-            <asp:TextBox ID="TextBox2" runat="server"   OnTextChanged="t""></asp:TextBox>
+            <asp:TextBox ID="TextBox2" runat="server"  OnTextChanged="TextBox2_TextChanged"></asp:TextBox>
 
             <asp:Button ID="Button1" runat="server" Text="Add" OnClick="Button1_Click" />
             <asp:Button ID="Button2" runat="server" Text="Sub" OnClick="Button2_Click" />

@@ -92,8 +92,8 @@ namespace DetailsForm
         }
             protected void StateChnaged(object sender, EventArgs e)
             {
-                DropDownList2.Controls.Clear();
-            DropDownList3.Items.Add(new ListItem("select city"));
+                DropDownList3.Controls.Clear();
+                DropDownList3.Items.Add(new ListItem("select city"));
 
                 switch (DropDownList2.SelectedValue)
                 {

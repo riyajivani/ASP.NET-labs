@@ -34,6 +34,7 @@
     <asp:Button ID="Button3" runat="server" Text="Mul"  OnCommand="Command" CommandArgument="*"/>
     <asp:Button ID="Button4" runat="server" Text="Div"   OnCommand="Command" CommandArgument="/"/> 
 
+    <asp:Button ID="Button5" runat="server" Text="remove" OnCommand="Command" CommandArgument="clear" CommandName="clear"/>
 </div>
     </form>
 </body>
