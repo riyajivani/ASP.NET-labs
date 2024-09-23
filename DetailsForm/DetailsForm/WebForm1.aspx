@@ -78,7 +78,7 @@
 
             <div class="group">
                 <asp:Label ID="Label7" runat="server" Text="Certificates: " CssClass="horizontalCheckBoxList"></asp:Label>
-                <asp:CheckBoxList ID="CheckBoxList1" runat="server" OnSelectedIndexChanged="CheckBoxList1_SelectedIndexChanged" >
+                <asp:CheckBoxList ID="CheckBoxList1" runat="server">
                     <asp:ListItem>IELTS</asp:ListItem>
                     <asp:ListItem>GRE</asp:ListItem>
                     <asp:ListItem>NCAT</asp:ListItem>
