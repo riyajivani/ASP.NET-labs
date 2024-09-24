@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sem7\\WT\\lab\\webervice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27929E-876B-44E4-B11A-2012E263B5FD}|webervice.csproj|d:\\sem7\\wt\\lab\\webervice\\mymebservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27929E-876B-44E4-B11A-2012E263B5FD}|webervice.csproj|solutionrelative:mymebservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/RIYA_SQLEXPRESS/Employee/True/SqlTable/dbo.Employee.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.Employee [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/RIYA_SQLEXPRESS/Employee/True/SqlTable/dbo.Employee.sql",
+              "ToolTip": "dbo.Employee [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-24T09:09:25.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mymebservice.asmx.cs",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\webervice\\mymebservice.asmx.cs",
+              "RelativeDocumentMoniker": "mymebservice.asmx.cs",
+              "ToolTip": "D:\\sem7\\WT\\lab\\webervice\\mymebservice.asmx.cs",
+              "RelativeToolTip": "mymebservice.asmx.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswBIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:04:52.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

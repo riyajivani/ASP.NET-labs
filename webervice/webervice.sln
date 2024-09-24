@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webervice", "webervice.csproj", "{CB27929E-876B-44E4-B11A-2012E263B5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB27929E-876B-44E4-B11A-2012E263B5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB27929E-876B-44E4-B11A-2012E263B5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB27929E-876B-44E4-B11A-2012E263B5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB27929E-876B-44E4-B11A-2012E263B5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10B1D2EB-4ADA-430F-BEF6-42AC1BE117BA}
+	EndGlobalSection
+EndGlobal

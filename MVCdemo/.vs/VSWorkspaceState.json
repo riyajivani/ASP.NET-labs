@@ -4,7 +4,7 @@
     "\\Controllers",
     "\\Models",
     "\\Views",
-    "\\Views\\Home"
+    "\\Views\\Employee"
   ],
   "SelectedNode": "\\MVCdemo.sln",
   "PreviewInSolutionExplorer": false

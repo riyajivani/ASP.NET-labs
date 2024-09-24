@@ -1,0 +1,27 @@
+﻿@model MVCBook.Models.Book
+
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (Model.display == "True")
+{
+<table>
+    <tr>
+        <td>isbn no:</td>
+        <td>@Model.isbn_no</td>
+    </tr>
+    <tr>
+        <td>book name:</td>
+        <td>@Model.bk_name</td>
+    </tr>
+    <tr>
+        <td>cost:</td>
+        <td>@Model.cost</td>
+    </tr>
+</table>
+}
+else
+            {
+                <h2>error</h2>
+            }
