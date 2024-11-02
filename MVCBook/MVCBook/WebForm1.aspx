@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:SqlDataSource ConnectionString="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=BookDb;Integrated Security=True;" ID="ds" />
+            <asp:SqlDataSource runat="server" ConnectionString="Data Source=RIYA\SQLEXPRESS;Initial Catalog=Book;Integrated Security=True;" ID="ds" />
         </div>
     </form>
 </body>

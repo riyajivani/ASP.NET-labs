@@ -1,3 +1,5 @@
+D:\sem7\WT\lab\MVCdemo\obj\Debug\MVCdemo.csproj.AssemblyReference.cache
+D:\sem7\WT\lab\MVCdemo\obj\Debug\MVCdemo.csproj.CoreCompileInputs.cache
 D:\sem7\WT\lab\MVCdemo\bin\MVCdemo.dll.config
 D:\sem7\WT\lab\MVCdemo\bin\MVCdemo.dll
 D:\sem7\WT\lab\MVCdemo\bin\MVCdemo.pdb
@@ -121,8 +123,6 @@ D:\sem7\WT\lab\MVCdemo\bin\System.Web.WebPages.Razor.xml
 D:\sem7\WT\lab\MVCdemo\bin\Newtonsoft.Json.xml
 D:\sem7\WT\lab\MVCdemo\bin\Antlr3.Runtime.pdb
 D:\sem7\WT\lab\MVCdemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\sem7\WT\lab\MVCdemo\obj\Debug\MVCdemo.csproj.AssemblyReference.cache
-D:\sem7\WT\lab\MVCdemo\obj\Debug\MVCdemo.csproj.CoreCompileInputs.cache
 D:\sem7\WT\lab\MVCdemo\obj\Debug\MVCdemo.csproj.Up2Date
 D:\sem7\WT\lab\MVCdemo\obj\Debug\MVCdemo.dll
 D:\sem7\WT\lab\MVCdemo\obj\Debug\MVCdemo.pdb

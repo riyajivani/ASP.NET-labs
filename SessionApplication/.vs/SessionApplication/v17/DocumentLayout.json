@@ -3,16 +3,39 @@
   "WorkspaceRootPath": "D:\\sem7\\WT\\lab\\SessionApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|D:\\sem7\\WT\\lab\\SessionApplication\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|D:\\sem7\\WT\\lab\\SessionApplication\\Chnagepwd.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|solutionrelative:Chnagepwd.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sem7\\WT\\lab\\SessionApplication\\Chnagepwd.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Chnagepwd.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|d:\\sem7\\wt\\lab\\sessionapplication\\welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|solutionrelative:welcome.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|D:\\sem7\\WT\\lab\\SessionApplication\\Welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|solutionrelative:Welcome.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|d:\\sem7\\wt\\lab\\sessionapplication\\chnagepwd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|solutionrelative:chnagepwd.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|d:\\sem7\\wt\\lab\\sessionapplication\\editdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|solutionrelative:editdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|solutionrelative:Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|d:\\sem7\\wt\\lab\\sessionapplication\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{591C1620-C1A0-46D7-8801-01BF35D8876F}|SessionApplication.csproj|solutionrelative:login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/RIYA_SQLEXPRESS/User/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,32 +53,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Chnagepwd.aspx.cs",
-              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Chnagepwd.aspx.cs",
-              "RelativeDocumentMoniker": "Chnagepwd.aspx.cs",
-              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\Chnagepwd.aspx.cs",
-              "RelativeToolTip": "Chnagepwd.aspx.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA3wAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T09:31:02.708Z"
+              "DocumentIndex": 4,
+              "Title": "Chnagepwd.aspx",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Chnagepwd.aspx",
+              "RelativeDocumentMoniker": "Chnagepwd.aspx",
+              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\Chnagepwd.aspx",
+              "RelativeToolTip": "Chnagepwd.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-30T19:04:59.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "Login.aspx.cs",
-              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx.cs",
-              "RelativeToolTip": "Login.aspx.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAyAAAA",
+              "DocumentIndex": 5,
+              "Title": "EditDetail.aspx",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\EditDetail.aspx",
+              "RelativeDocumentMoniker": "EditDetail.aspx",
+              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\EditDetail.aspx",
+              "RelativeToolTip": "EditDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-30T19:03:54.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.aspx.cs",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Welcome.aspx.cs",
+              "RelativeDocumentMoniker": "Welcome.aspx.cs",
+              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\Welcome.aspx.cs",
+              "RelativeToolTip": "Welcome.aspx.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T09:30:21.382Z",
+              "WhenOpened": "2024-09-29T18:25:32.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.aspx",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Welcome.aspx",
+              "RelativeDocumentMoniker": "Welcome.aspx",
+              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\Welcome.aspx",
+              "RelativeToolTip": "Welcome.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T16:03:19.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Chnagepwd.aspx.cs",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Chnagepwd.aspx.cs",
+              "RelativeDocumentMoniker": "Chnagepwd.aspx.cs",
+              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\Chnagepwd.aspx.cs",
+              "RelativeToolTip": "Chnagepwd.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:31:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Login.aspx",
               "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx",
               "RelativeDocumentMoniker": "Login.aspx",
@@ -64,6 +127,41 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-09-17T09:28:31.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Login.aspx.designer.cs",
+              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx.designer.cs",
+              "RelativeToolTip": "Login.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:03:44.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dbo.User [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/RIYA_SQLEXPRESS/User/True/SqlTable/dbo.User.sql",
+              "ToolTip": "dbo.User [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-29T16:05:04.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login.aspx.cs",
+              "ToolTip": "D:\\sem7\\WT\\lab\\SessionApplication\\Login.aspx.cs",
+              "RelativeToolTip": "Login.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:30:21.382Z",
               "EditorCaption": ""
             }
           ]

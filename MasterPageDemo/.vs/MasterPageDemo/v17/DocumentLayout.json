@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\sem7\\WT\\lab\\MasterPageDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|D:\\sem7\\WT\\lab\\MasterPageDemo\\contentpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|D:\\sem7\\WT\\lab\\MasterPageDemo\\contentpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|solutionrelative:contentpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|d:\\sem7\\wt\\lab\\masterpagedemo\\contentpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|solutionrelative:contentpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -11,11 +15,7 @@
       "RelativeMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|solutionrelative:Site1.Master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|D:\\sem7\\WT\\lab\\MasterPageDemo\\contentpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|solutionrelative:contentpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|d:\\sem7\\wt\\lab\\masterpagedemo\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|D:\\sem7\\WT\\lab\\MasterPageDemo\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{FF622BA8-D47A-4EB4-9FD9-1DED1FA9A493}|MasterPageDemo.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     }
   ],
@@ -26,15 +26,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 20,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "contentpage.aspx",
               "DocumentMoniker": "D:\\sem7\\WT\\lab\\MasterPageDemo\\contentpage.aspx",
               "RelativeDocumentMoniker": "contentpage.aspx",
@@ -44,6 +40,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-07-24T16:04:06.954Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
@@ -60,26 +60,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "contentpage.aspx.cs",
               "DocumentMoniker": "D:\\sem7\\WT\\lab\\MasterPageDemo\\contentpage.aspx.cs",
               "RelativeDocumentMoniker": "contentpage.aspx.cs",
               "ToolTip": "D:\\sem7\\WT\\lab\\MasterPageDemo\\contentpage.aspx.cs",
               "RelativeToolTip": "contentpage.aspx.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAAYAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwBAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T14:40:42.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Site1.Master.cs",
               "DocumentMoniker": "D:\\sem7\\WT\\lab\\MasterPageDemo\\Site1.Master.cs",
               "RelativeDocumentMoniker": "Site1.Master.cs",
               "ToolTip": "D:\\sem7\\WT\\lab\\MasterPageDemo\\Site1.Master.cs",
               "RelativeToolTip": "Site1.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-24T14:37:36.265Z",
               "EditorCaption": ""

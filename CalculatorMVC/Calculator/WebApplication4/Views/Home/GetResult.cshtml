@@ -1,0 +1,47 @@
+﻿
+@{
+    ViewBag.Title = "GetResult";
+}
+
+<h2>GetResult</h2>
+
+@using (Html.BeginForm("GetResult", "Home",FormMethod.Post))
+{
+    <table style="
+width: 30%;
+border-collapse: separate;
+border-spacing: 0 2em;
+">
+        <tr>
+            <td colspan="2"> Number-1 </td>
+            <td colspan="2">
+                <input id="textNum1" name="num1" value="@ViewBag.num1" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"> Number-2 </td>
+            <td colspan="2">
+                <input id="textNum2" name="num2" value="@ViewBag.num2" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"> Result </td>
+            <td colspan="2">
+           
+                <div> @Html.Raw(ViewBag.res) </div>
+            </td>
+        </tr>
+    </table>
+    <br />
+
+
+    @Html.ActionLink("Home","getresult" )
+    <input id="Submit1" type="submit" value="Add" name="operation" />
+    @Html.Raw("&nbsp;&nbsp;")
+    <input id="Submit2" type="submit" value="Sub" name="operation" />
+    @Html.Raw("&nbsp;&nbsp;")
+    <input id="Submit3" type="submit" value="Mul" name="operation" />
+    @Html.Raw("&nbsp;&nbsp;")
+    <input id="Submit3" type="submit" value="Div" name="operation" />
+    @Html.Raw("&nbsp;&nbsp;")
+}

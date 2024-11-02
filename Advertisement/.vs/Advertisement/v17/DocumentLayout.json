@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\sem7\\WT\\lab\\Advertisement\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|d:\\sem7\\wt\\lab\\advertisement\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|solutionrelative:xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|d:\\sem7\\wt\\lab\\advertisement\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|d:\\sem7\\wt\\lab\\advertisement\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{B7B29964-2B58-479D-A5D1-C2935A7D7FB5}|Advertisement.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
@@ -23,12 +31,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\Advertisement\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "XMLFile1.xml",
+              "ToolTip": "D:\\sem7\\WT\\lab\\Advertisement\\XMLFile1.xml",
+              "RelativeToolTip": "XMLFile1.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-10-22T10:45:42.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "D:\\sem7\\WT\\lab\\Advertisement\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "WebForm1.aspx.cs",
+              "ToolTip": "D:\\sem7\\WT\\lab\\Advertisement\\WebForm1.aspx.cs",
+              "RelativeToolTip": "WebForm1.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:45:36.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "D:\\sem7\\WT\\lab\\Advertisement\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebForm1.aspx",
               "ToolTip": "D:\\sem7\\WT\\lab\\Advertisement\\WebForm1.aspx",
               "RelativeToolTip": "WebForm1.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-07-31T03:14:14.101Z",
               "EditorCaption": ""

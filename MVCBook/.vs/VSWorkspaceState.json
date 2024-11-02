@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCBook",
+    "\\MVCBook\\Controllers",
+    "\\MVCBook\\Models",
+    "\\MVCBook\\Views",
+    "\\MVCBook\\Views\\Book"
+  ],
+  "SelectedNode": "\\MVCBook\\Models\\BookContext.cs",
+  "PreviewInSolutionExplorer": false
+}
